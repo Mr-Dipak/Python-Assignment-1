@@ -6,7 +6,7 @@ Use python f string for this.
 
 '''
 
-fruit_i_eat = 5
-vegetables_i_eat = 3
+x = 3
+y = 5
 
-print()
+print(f"I eat {x} veggies and {y} fruits daily")
