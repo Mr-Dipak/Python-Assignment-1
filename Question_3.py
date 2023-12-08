@@ -3,6 +3,7 @@
 Now Print "I eat x veggies and y fruits daily" where x and y presents vegetables and fruits that you eat everyday.
 Use python f string for this.
 
+GitHub Repositories : https://github.com/Mr-Dipak/Python-Assignment-1
 
 '''
 
